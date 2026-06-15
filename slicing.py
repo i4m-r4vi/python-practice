@@ -54,6 +54,7 @@ app_config=(2001,4001,5001,'config')
 set => set is an un-ordered collection where elements are stored in random order fashion
         set doesn't allow duplicates
         set is created by {}
+        set is doesn't have index
 """
 
 sett={10,20,4,20}
