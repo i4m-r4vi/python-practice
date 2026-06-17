@@ -83,3 +83,6 @@ patient_info(
     hno=205,
     cross='2nd cross'
 )
+
+# list comprehension
+# dictionary comprehension
